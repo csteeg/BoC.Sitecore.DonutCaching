@@ -1,0 +1,4 @@
+Place these dlls in this folder:
+Sitecore.kernel.dll
+Sitecore.mvc.dll
+Sitecore.mvc.experienceeditor.dll
